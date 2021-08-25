@@ -1,0 +1,22 @@
+{
+    "produto": [
+        {
+            "id": 1,
+            "name": "iPhone 12",
+            "price": 8000,
+            "discount": 5,
+            "description": {
+                "features": "touch screen"
+            }
+        },
+        {
+            "id": 2,
+            "name": "iPhone XR",
+            "price": 4500,
+            "discount": 10,
+            "description": {
+                "features": "touch screen"
+            }
+        }
+    ]
+}
